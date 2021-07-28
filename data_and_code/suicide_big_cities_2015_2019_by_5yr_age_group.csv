@@ -1,0 +1,25 @@
+notes,five_year_age_groups,five_year_age_groups_code,deaths,population,crude_rate,crude_rate_lower_95_percent_confidence_interval,crude_rate_upper_95_percent_confidence_interval,crude_rate_standard_error,death_cause,acp_name,time_period
+,< 1 year,1,Suppressed,5238603,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,Big Cities,2015-2019
+,1-4 years,1-4,Suppressed,20596559,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,Big Cities,2015-2019
+,5-9 years,5-9,Suppressed,25135855,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,Big Cities,2015-2019
+,10-14 years,10-14,428,24687962,1.734,1.569,1.898,0.084,Suicide,Big Cities,2015-2019
+,15-19 years,15-19,2095,24593080,8.519,8.154,8.883,0.186,Suicide,Big Cities,2015-2019
+,20-24 years,20-24,3826,27109607,14.113,13.666,14.560,0.228,Suicide,Big Cities,2015-2019
+,25-29 years,25-29,4319,34209979,12.625,12.248,13.001,0.192,Suicide,Big Cities,2015-2019
+,30-34 years,30-34,3943,32014103,12.316,11.932,12.701,0.196,Suicide,Big Cities,2015-2019
+,35-39 years,35-39,3741,28693517,13.038,12.620,13.456,0.213,Suicide,Big Cities,2015-2019
+,40-44 years,40-44,3492,25949245,13.457,13.011,13.903,0.228,Suicide,Big Cities,2015-2019
+,45-49 years,45-49,3909,26000604,15.034,14.563,15.506,0.240,Suicide,Big Cities,2015-2019
+,50-54 years,50-54,4279,25418567,16.834,16.330,17.339,0.257,Suicide,Big Cities,2015-2019
+,55-59 years,55-59,4243,25016594,16.961,16.450,17.471,0.260,Suicide,Big Cities,2015-2019
+,60-64 years ,60-64,3411,22015289,15.494,14.974,16.014,0.265,Suicide,Big Cities,2015-2019
+,65-69 years,65-69,2386,17916938,13.317,12.783,13.851,0.273,Suicide,Big Cities,2015-2019
+,70-74 years,70-74,1760,12987865,13.551,12.918,14.184,0.323,Suicide,Big Cities,2015-2019
+,75-79 years,75-79,1380,8975572,15.375,14.564,16.186,0.414,Suicide,Big Cities,2015-2019
+,80-84 years,80-84,992,6224739,15.936,14.945,16.928,0.506,Suicide,Big Cities,2015-2019
+,85-89 years,85-89,767,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Big Cities,2015-2019
+,90-94 years,90-94,334,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Big Cities,2015-2019
+,95-99 years,95-99,69,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Big Cities,2015-2019
+,100+ years,100+,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Big Cities,2015-2019
+,Not Stated,NS,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Big Cities,2015-2019
+Total,,,45396,399772430,11.355,11.251,11.460,0.053,Suicide,Big Cities,2015-2019

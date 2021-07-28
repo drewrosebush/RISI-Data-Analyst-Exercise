@@ -1,0 +1,25 @@
+notes,five_year_age_groups,five_year_age_groups_code,deaths,population,crude_rate,crude_rate_lower_95_percent_confidence_interval,crude_rate_upper_95_percent_confidence_interval,crude_rate_standard_error,death_cause,acp_name,time_period
+,< 1 year,1,Suppressed,771882,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,Evangelical Hubs,2000-2004
+,1-4 years,1-4,Suppressed,3084357,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,Evangelical Hubs,2000-2004
+,5-9 years,5-9,Suppressed,3991121,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,Evangelical Hubs,2000-2004
+,10-14 years,10-14,44,4288918,1.026,0.745,1.377,0.155,Suicide,Evangelical Hubs,2000-2004
+,15-19 years,15-19,383,4174416,9.175,8.256,10.094,0.469,Suicide,Evangelical Hubs,2000-2004
+,20-24 years,20-24,609,3722592,16.360,15.060,17.659,0.663,Suicide,Evangelical Hubs,2000-2004
+,25-29 years,25-29,609,3544629,17.181,15.816,18.545,0.696,Suicide,Evangelical Hubs,2000-2004
+,30-34 years,30-34,769,3885820,19.790,18.391,21.189,0.714,Suicide,Evangelical Hubs,2000-2004
+,35-39 years,35-39,874,4231534,20.654,19.285,22.024,0.699,Suicide,Evangelical Hubs,2000-2004
+,40-44 years,40-44,1035,4505602,22.971,21.572,24.371,0.714,Suicide,Evangelical Hubs,2000-2004
+,45-49 years,45-49,896,4317714,20.752,19.393,22.111,0.693,Suicide,Evangelical Hubs,2000-2004
+,50-54 years,50-54,728,4027349,18.076,16.763,19.390,0.670,Suicide,Evangelical Hubs,2000-2004
+,55-59 years,55-59,570,3506596,16.255,14.921,17.590,0.681,Suicide,Evangelical Hubs,2000-2004
+,60-64 years ,60-64,455,2937262,15.491,14.067,16.914,0.726,Suicide,Evangelical Hubs,2000-2004
+,65-69 years,65-69,361,2514250,14.358,12.877,15.839,0.756,Suicide,Evangelical Hubs,2000-2004
+,70-74 years,70-74,369,2152477,17.143,15.394,18.892,0.892,Suicide,Evangelical Hubs,2000-2004
+,75-79 years,75-79,355,1775229,19.997,17.917,22.078,1.061,Suicide,Evangelical Hubs,2000-2004
+,80-84 years,80-84,257,1239467,20.735,18.200,23.270,1.293,Suicide,Evangelical Hubs,2000-2004
+,85-89 years,85-89,139,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Evangelical Hubs,2000-2004
+,90-94 years,90-94,34,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Evangelical Hubs,2000-2004
+,95-99 years,95-99,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Evangelical Hubs,2000-2004
+,100+ years,100+,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Evangelical Hubs,2000-2004
+,Not Stated,NS,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Evangelical Hubs,2000-2004
+Total,,,8494,59720753,14.223,13.920,14.525,0.154,Suicide,Evangelical Hubs,2000-2004

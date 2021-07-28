@@ -1,0 +1,25 @@
+notes,five_year_age_groups,five_year_age_groups_code,deaths,population,crude_rate,crude_rate_lower_95_percent_confidence_interval,crude_rate_upper_95_percent_confidence_interval,crude_rate_standard_error,death_cause,acp_name,time_period
+,< 1 year,1,Suppressed,4225648,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,Urban Suburbs,2005-2009
+,1-4 years,1-4,Suppressed,16957504,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,Urban Suburbs,2005-2009
+,5-9 years,5-9,Suppressed,21160080,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,Urban Suburbs,2005-2009
+,10-14 years,10-14,185,22789847,0.812,0.695,0.929,0.060,Suicide,Urban Suburbs,2005-2009
+,15-19 years,15-19,1303,23430195,5.561,5.259,5.863,0.154,Suicide,Urban Suburbs,2005-2009
+,20-24 years,20-24,2327,21625501,10.760,10.323,11.198,0.223,Suicide,Urban Suburbs,2005-2009
+,25-29 years,25-29,2269,21742764,10.436,10.006,10.865,0.219,Suicide,Urban Suburbs,2005-2009
+,30-34 years,30-34,2208,20905846,10.562,10.121,11.002,0.225,Suicide,Urban Suburbs,2005-2009
+,35-39 years,35-39,2692,23239640,11.584,11.146,12.021,0.223,Suicide,Urban Suburbs,2005-2009
+,40-44 years,40-44,3310,24866997,13.311,12.857,13.764,0.231,Suicide,Urban Suburbs,2005-2009
+,45-49 years,45-49,3821,25576287,14.940,14.466,15.413,0.242,Suicide,Urban Suburbs,2005-2009
+,50-54 years,50-54,3698,23295548,15.874,15.363,16.386,0.261,Suicide,Urban Suburbs,2005-2009
+,55-59 years,55-59,2896,20067356,14.431,13.906,14.957,0.268,Suicide,Urban Suburbs,2005-2009
+,60-64 years ,60-64,1943,15498439,12.537,11.979,13.094,0.284,Suicide,Urban Suburbs,2005-2009
+,65-69 years,65-69,1200,11363661,10.560,9.962,11.157,0.305,Suicide,Urban Suburbs,2005-2009
+,70-74 years,70-74,973,9050897,10.750,10.075,11.426,0.345,Suicide,Urban Suburbs,2005-2009
+,75-79 years,75-79,1026,7971344,12.871,12.084,13.659,0.402,Suicide,Urban Suburbs,2005-2009
+,80-84 years,80-84,897,6407674,13.999,13.083,14.915,0.467,Suicide,Urban Suburbs,2005-2009
+,85-89 years,85-89,590,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Urban Suburbs,2005-2009
+,90-94 years,90-94,210,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Urban Suburbs,2005-2009
+,95-99 years,95-99,41,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Urban Suburbs,2005-2009
+,100+ years,100+,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Urban Suburbs,2005-2009
+,Not Stated,NS,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Urban Suburbs,2005-2009
+Total,,,31600,326058164,9.692,9.585,9.798,0.055,Suicide,Urban Suburbs,2005-2009

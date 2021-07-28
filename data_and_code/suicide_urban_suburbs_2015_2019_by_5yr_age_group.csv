@@ -1,0 +1,25 @@
+notes,five_year_age_groups,five_year_age_groups_code,deaths,population,crude_rate,crude_rate_lower_95_percent_confidence_interval,crude_rate_upper_95_percent_confidence_interval,crude_rate_standard_error,death_cause,acp_name,time_period
+,< 1 year,1,Suppressed,4108741,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,Urban Suburbs,2015-2019
+,1-4 years,1-4,Suppressed,16815998,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,Urban Suburbs,2015-2019
+,5-9 years,5-9,11,21533144,Unreliable,0.026,0.091,0.015,Suicide,Urban Suburbs,2015-2019
+,10-14 years,10-14,390,22167634,1.759,1.585,1.934,0.089,Suicide,Urban Suburbs,2015-2019
+,15-19 years,15-19,1822,22703235,8.025,7.657,8.394,0.188,Suicide,Urban Suburbs,2015-2019
+,20-24 years,20-24,3192,23257007,13.725,13.249,14.201,0.243,Suicide,Urban Suburbs,2015-2019
+,25-29 years,25-29,3389,24734343,13.702,13.240,14.163,0.235,Suicide,Urban Suburbs,2015-2019
+,30-34 years,30-34,3184,23835910,13.358,12.894,13.822,0.237,Suicide,Urban Suburbs,2015-2019
+,35-39 years,35-39,3069,23081698,13.296,12.826,13.767,0.240,Suicide,Urban Suburbs,2015-2019
+,40-44 years,40-44,2977,21933260,13.573,13.085,14.061,0.249,Suicide,Urban Suburbs,2015-2019
+,45-49 years,45-49,3647,23435749,15.562,15.057,16.067,0.258,Suicide,Urban Suburbs,2015-2019
+,50-54 years,50-54,4082,24258728,16.827,16.311,17.343,0.263,Suicide,Urban Suburbs,2015-2019
+,55-59 years,55-59,4396,24337068,18.063,17.529,18.597,0.272,Suicide,Urban Suburbs,2015-2019
+,60-64 years ,60-64,3366,21458474,15.686,15.156,16.216,0.270,Suicide,Urban Suburbs,2015-2019
+,65-69 years,65-69,2404,17716165,13.570,13.027,14.112,0.277,Suicide,Urban Suburbs,2015-2019
+,70-74 years,70-74,1738,13298760,13.069,12.454,13.683,0.313,Suicide,Urban Suburbs,2015-2019
+,75-79 years,75-79,1281,9176300,13.960,13.195,14.724,0.390,Suicide,Urban Suburbs,2015-2019
+,80-84 years,80-84,967,6424790,15.051,14.102,16.000,0.484,Suicide,Urban Suburbs,2015-2019
+,85-89 years,85-89,782,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Urban Suburbs,2015-2019
+,90-94 years,90-94,348,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Urban Suburbs,2015-2019
+,95-99 years,95-99,72,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Urban Suburbs,2015-2019
+,100+ years,100+,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Urban Suburbs,2015-2019
+,Not Stated,NS,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Urban Suburbs,2015-2019
+Total,,,41127,351804639,11.690,11.577,11.803,0.058,Suicide,Urban Suburbs,2015-2019

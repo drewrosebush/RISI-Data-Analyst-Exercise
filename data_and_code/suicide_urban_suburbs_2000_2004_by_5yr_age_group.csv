@@ -1,0 +1,25 @@
+notes,five_year_age_groups,five_year_age_groups_code,deaths,population,crude_rate,crude_rate_lower_95_percent_confidence_interval,crude_rate_upper_95_percent_confidence_interval,crude_rate_standard_error,death_cause,acp_name,time_period
+,< 1 year,1,Suppressed,4238724,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,Urban Suburbs,2000-2004
+,1-4 years,1-4,Suppressed,16801584,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,Urban Suburbs,2000-2004
+,5-9 years,5-9,Suppressed,21841868,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,Urban Suburbs,2000-2004
+,10-14 years,10-14,199,22962358,0.867,0.746,0.987,0.061,Suicide,Urban Suburbs,2000-2004
+,15-19 years,15-19,1250,21330646,5.860,5.535,6.185,0.166,Suicide,Urban Suburbs,2000-2004
+,20-24 years,20-24,2099,20080474,10.453,10.006,10.900,0.228,Suicide,Urban Suburbs,2000-2004
+,25-29 years,25-29,2125,20378795,10.428,9.984,10.871,0.226,Suicide,Urban Suburbs,2000-2004
+,30-34 years,30-34,2328,22923302,10.156,9.743,10.568,0.210,Suicide,Urban Suburbs,2000-2004
+,35-39 years,35-39,2822,24983480,11.295,10.879,11.712,0.213,Suicide,Urban Suburbs,2000-2004
+,40-44 years,40-44,3294,25947252,12.695,12.261,13.129,0.221,Suicide,Urban Suburbs,2000-2004
+,45-49 years,45-49,3184,23760213,13.401,12.935,13.866,0.237,Suicide,Urban Suburbs,2000-2004
+,50-54 years,50-54,2773,20877517,13.282,12.788,13.777,0.252,Suicide,Urban Suburbs,2000-2004
+,55-59 years,55-59,2051,16557812,12.387,11.851,12.923,0.274,Suicide,Urban Suburbs,2000-2004
+,60-64 years ,60-64,1394,12344010,11.293,10.700,11.886,0.302,Suicide,Urban Suburbs,2000-2004
+,65-69 years,65-69,956,10104303,9.461,8.862,10.061,0.306,Suicide,Urban Suburbs,2000-2004
+,70-74 years,70-74,1050,9375169,11.200,10.522,11.877,0.346,Suicide,Urban Suburbs,2000-2004
+,75-79 years,75-79,1141,8276103,13.787,12.987,14.587,0.408,Suicide,Urban Suburbs,2000-2004
+,80-84 years,80-84,893,5983935,14.923,13.944,15.902,0.499,Suicide,Urban Suburbs,2000-2004
+,85-89 years,85-89,571,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Urban Suburbs,2000-2004
+,90-94 years,90-94,224,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Urban Suburbs,2000-2004
+,95-99 years,95-99,34,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Urban Suburbs,2000-2004
+,100+ years,100+,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Urban Suburbs,2000-2004
+,Not Stated,NS,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Urban Suburbs,2000-2004
+Total,,,28403,313794626,9.051,8.946,9.157,0.054,Suicide,Urban Suburbs,2000-2004

@@ -1,0 +1,13 @@
+Variable,Description
+notes,Notes
+five_year_age_groups,Age group in 5 year intervals 
+five_year_age_groups_code,Age group in 5 year intervals 
+deaths,"Suicide deaths in age group, location, and time period. Suppressed for values <10"
+population,"Population in age group, location, and time period"
+crude_rate,"Crude death rate for suicides per 100,000 population"
+crude_rate_lower_95_percent_confidence_interval,Crude death rate confidence interval (lower bound)
+crude_rate_upper_95_percent_confidence_interval,Crude death rate confidence interval (upper bound)
+crude_rate_standard_error,Crude death rate standard error
+death_cause,Cause of death
+acp_name,American Communities Project (ACP) typology designation 
+time_period,Five-year time period

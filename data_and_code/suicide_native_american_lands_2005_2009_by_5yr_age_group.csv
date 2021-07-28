@@ -1,0 +1,25 @@
+notes,five_year_age_groups,five_year_age_groups_code,deaths,population,crude_rate,crude_rate_lower_95_percent_confidence_interval,crude_rate_upper_95_percent_confidence_interval,crude_rate_standard_error,death_cause,acp_name,time_period
+,< 1 year,1,Suppressed,72367,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,Native American Lands,2005-2009
+,1-4 years,1-4,Suppressed,274716,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,Native American Lands,2005-2009
+,5-9 years,5-9,Suppressed,332263,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,Native American Lands,2005-2009
+,10-14 years,10-14,35,354698,9.868,6.873,13.723,1.668,Suicide,Native American Lands,2005-2009
+,15-19 years,15-19,150,374508,40.053,33.643,46.462,3.270,Suicide,Native American Lands,2005-2009
+,20-24 years,20-24,166,283043,58.648,49.726,67.570,4.552,Suicide,Native American Lands,2005-2009
+,25-29 years,25-29,100,251138,39.819,32.014,47.623,3.982,Suicide,Native American Lands,2005-2009
+,30-34 years,30-34,85,237458,35.796,28.592,44.262,3.883,Suicide,Native American Lands,2005-2009
+,35-39 years,35-39,75,243793,30.764,24.198,38.563,3.552,Suicide,Native American Lands,2005-2009
+,40-44 years,40-44,80,267445,29.913,23.719,37.229,3.344,Suicide,Native American Lands,2005-2009
+,45-49 years,45-49,60,285152,21.041,16.057,27.085,2.716,Suicide,Native American Lands,2005-2009
+,50-54 years,50-54,64,265931,24.066,18.534,30.732,3.008,Suicide,Native American Lands,2005-2009
+,55-59 years,55-59,37,231148,16.007,11.270,22.064,2.632,Suicide,Native American Lands,2005-2009
+,60-64 years ,60-64,18,179420,Unreliable,5.946,15.855,2.365,Suicide,Native American Lands,2005-2009
+,65-69 years,65-69,22,141162,15.585,9.767,23.596,3.323,Suicide,Native American Lands,2005-2009
+,70-74 years,70-74,17,110120,Unreliable,8.993,24.717,3.744,Suicide,Native American Lands,2005-2009
+,75-79 years,75-79,12,81090,Unreliable,7.646,25.850,4.272,Suicide,Native American Lands,2005-2009
+,80-84 years,80-84,Suppressed,54014,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,Native American Lands,2005-2009
+,85-89 years,85-89,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Native American Lands,2005-2009
+,90-94 years,90-94,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Native American Lands,2005-2009
+,95-99 years,95-99,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Native American Lands,2005-2009
+,100+ years,100+,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Native American Lands,2005-2009
+,Not Stated,NS,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Native American Lands,2005-2009
+Total,,,939,4082801,22.999,21.528,24.470,0.751,Suicide,Native American Lands,2005-2009

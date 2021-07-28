@@ -1,0 +1,25 @@
+notes,five_year_age_groups,five_year_age_groups_code,deaths,population,crude_rate,crude_rate_lower_95_percent_confidence_interval,crude_rate_upper_95_percent_confidence_interval,crude_rate_standard_error,death_cause,acp_name,time_period
+,< 1 year,1,Suppressed,755146,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,Graying America,2000-2004
+,1-4 years,1-4,Suppressed,3003153,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,Graying America,2000-2004
+,5-9 years,5-9,Suppressed,4038599,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,Graying America,2000-2004
+,10-14 years,10-14,93,4583023,2.029,1.638,2.486,0.210,Suicide,Graying America,2000-2004
+,15-19 years,15-19,469,4457388,10.522,9.570,11.474,0.486,Suicide,Graying America,2000-2004
+,20-24 years,20-24,683,3570321,19.130,17.695,20.565,0.732,Suicide,Graying America,2000-2004
+,25-29 years,25-29,630,3408375,18.484,17.041,19.927,0.736,Suicide,Graying America,2000-2004
+,30-34 years,30-34,759,3925246,19.336,17.961,20.712,0.702,Suicide,Graying America,2000-2004
+,35-39 years,35-39,992,4523091,21.932,20.567,23.297,0.696,Suicide,Graying America,2000-2004
+,40-44 years,40-44,1249,5123909,24.376,23.024,25.728,0.690,Suicide,Graying America,2000-2004
+,45-49 years,45-49,1253,5064259,24.742,23.372,26.112,0.699,Suicide,Graying America,2000-2004
+,50-54 years,50-54,1074,4798935,22.380,21.041,23.718,0.683,Suicide,Graying America,2000-2004
+,55-59 years,55-59,786,4339371,18.113,16.847,19.380,0.646,Suicide,Graying America,2000-2004
+,60-64 years ,60-64,582,3927257,14.820,13.615,16.024,0.614,Suicide,Graying America,2000-2004
+,65-69 years,65-69,540,3629448,14.878,13.623,16.133,0.640,Suicide,Graying America,2000-2004
+,70-74 years,70-74,614,3354254,18.305,16.857,19.753,0.739,Suicide,Graying America,2000-2004
+,75-79 years,75-79,622,2783841,22.343,20.587,24.099,0.896,Suicide,Graying America,2000-2004
+,80-84 years,80-84,520,1862276,27.923,25.523,30.323,1.224,Suicide,Graying America,2000-2004
+,85-89 years,85-89,321,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Graying America,2000-2004
+,90-94 years,90-94,127,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Graying America,2000-2004
+,95-99 years,95-99,18,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Graying America,2000-2004
+,100+ years,100+,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Graying America,2000-2004
+,Not Stated,NS,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Graying America,2000-2004
+Total,,,11335,68567968,16.531,16.227,16.835,0.155,Suicide,Graying America,2000-2004

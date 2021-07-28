@@ -1,0 +1,25 @@
+notes,five_year_age_groups,five_year_age_groups_code,deaths,population,crude_rate,crude_rate_lower_95_percent_confidence_interval,crude_rate_upper_95_percent_confidence_interval,crude_rate_standard_error,death_cause,acp_name,time_period
+,< 1 year,1,Suppressed,5278347,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,Big Cities,2000-2004
+,1-4 years,1-4,Suppressed,19836756,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,Big Cities,2000-2004
+,5-9 years,5-9,Suppressed,24618262,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,Big Cities,2000-2004
+,10-14 years,10-14,300,25270989,1.187,1.053,1.321,0.069,Suicide,Big Cities,2000-2004
+,15-19 years,15-19,1547,23967598,6.455,6.133,6.776,0.164,Suicide,Big Cities,2000-2004
+,20-24 years,20-24,2833,26333444,10.758,10.362,11.154,0.202,Suicide,Big Cities,2000-2004
+,25-29 years,25-29,2859,28203445,10.137,9.765,10.509,0.190,Suicide,Big Cities,2000-2004
+,30-34 years,30-34,3059,28411399,10.767,10.385,11.148,0.195,Suicide,Big Cities,2000-2004
+,35-39 years,35-39,3267,27662343,11.810,11.405,12.215,0.207,Suicide,Big Cities,2000-2004
+,40-44 years,40-44,3769,27403398,13.754,13.315,14.193,0.224,Suicide,Big Cities,2000-2004
+,45-49 years,45-49,3580,24763043,14.457,13.983,14.931,0.242,Suicide,Big Cities,2000-2004
+,50-54 years,50-54,3067,21618984,14.187,13.685,14.689,0.256,Suicide,Big Cities,2000-2004
+,55-59 years,55-59,2239,16751246,13.366,12.813,13.920,0.282,Suicide,Big Cities,2000-2004
+,60-64 years ,60-64,1474,12713627,11.594,11.002,12.186,0.302,Suicide,Big Cities,2000-2004
+,65-69 years,65-69,1138,10370038,10.974,10.336,11.612,0.325,Suicide,Big Cities,2000-2004
+,70-74 years,70-74,1151,9268834,12.418,11.701,13.135,0.366,Suicide,Big Cities,2000-2004
+,75-79 years,75-79,1140,7989166,14.269,13.441,15.098,0.423,Suicide,Big Cities,2000-2004
+,80-84 years,80-84,1028,5598439,18.362,17.240,19.485,0.573,Suicide,Big Cities,2000-2004
+,85-89 years,85-89,591,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Big Cities,2000-2004
+,90-94 years,90-94,228,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Big Cities,2000-2004
+,95-99 years,95-99,42,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Big Cities,2000-2004
+,100+ years,100+,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Big Cities,2000-2004
+,Not Stated,NS,21,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Big Cities,2000-2004
+Total,,,33340,350709178,9.506,9.404,9.608,0.052,Suicide,Big Cities,2000-2004

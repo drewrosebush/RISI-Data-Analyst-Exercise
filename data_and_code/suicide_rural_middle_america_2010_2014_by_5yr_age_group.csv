@@ -1,0 +1,25 @@
+notes,five_year_age_groups,five_year_age_groups_code,deaths,population,crude_rate,crude_rate_lower_95_percent_confidence_interval,crude_rate_upper_95_percent_confidence_interval,crude_rate_standard_error,death_cause,acp_name,time_period
+,< 1 year,1,Suppressed,1201477,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,Rural Middle America,2010-2014
+,1-4 years,1-4,Suppressed,5055140,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,Rural Middle America,2010-2014
+,5-9 years,5-9,Suppressed,6679419,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,Rural Middle America,2010-2014
+,10-14 years,10-14,131,6967658,1.880,1.558,2.202,0.164,Suicide,Rural Middle America,2010-2014
+,15-19 years,15-19,802,7318670,10.958,10.200,11.717,0.387,Suicide,Rural Middle America,2010-2014
+,20-24 years,20-24,1182,6731083,17.560,16.559,18.561,0.511,Suicide,Rural Middle America,2010-2014
+,25-29 years,25-29,1154,6092351,18.942,17.849,20.035,0.558,Suicide,Rural Middle America,2010-2014
+,30-34 years,30-34,1165,6201367,18.786,17.707,19.865,0.550,Suicide,Rural Middle America,2010-2014
+,35-39 years,35-39,1163,6076163,19.140,18.040,20.240,0.561,Suicide,Rural Middle America,2010-2014
+,40-44 years,40-44,1517,6756285,22.453,21.323,23.583,0.576,Suicide,Rural Middle America,2010-2014
+,45-49 years,45-49,1704,7562059,22.534,21.464,23.603,0.546,Suicide,Rural Middle America,2010-2014
+,50-54 years,50-54,1799,8389537,21.443,20.452,22.434,0.506,Suicide,Rural Middle America,2010-2014
+,55-59 years,55-59,1505,8005373,18.800,17.850,19.750,0.485,Suicide,Rural Middle America,2010-2014
+,60-64 years ,60-64,1080,6962878,15.511,14.586,16.436,0.472,Suicide,Rural Middle America,2010-2014
+,65-69 years,65-69,732,5425779,13.491,12.514,14.468,0.499,Suicide,Rural Middle America,2010-2014
+,70-74 years,70-74,599,4134411,14.488,13.328,15.648,0.592,Suicide,Rural Middle America,2010-2014
+,75-79 years,75-79,466,3186676,14.623,13.296,15.951,0.677,Suicide,Rural Middle America,2010-2014
+,80-84 years,80-84,470,2526587,18.602,16.920,20.284,0.858,Suicide,Rural Middle America,2010-2014
+,85-89 years,85-89,283,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Rural Middle America,2010-2014
+,90-94 years,90-94,106,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Rural Middle America,2010-2014
+,95-99 years,95-99,26,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Rural Middle America,2010-2014
+,100+ years,100+,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Rural Middle America,2010-2014
+,Not Stated,NS,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Rural Middle America,2010-2014
+Total,,,15887,107943458,14.718,14.489,14.947,0.117,Suicide,Rural Middle America,2010-2014

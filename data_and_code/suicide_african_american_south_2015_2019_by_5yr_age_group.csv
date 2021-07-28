@@ -1,0 +1,25 @@
+notes,five_year_age_groups,five_year_age_groups_code,deaths,population,crude_rate,crude_rate_lower_95_percent_confidence_interval,crude_rate_upper_95_percent_confidence_interval,crude_rate_standard_error,death_cause,acp_name,time_period
+,< 1 year,1,Suppressed,1015257,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,African American South,2015-2019
+,1-4 years,1-4,Suppressed,4146515,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,African American South,2015-2019
+,5-9 years,5-9,Suppressed,5246295,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,African American South,2015-2019
+,10-14 years,10-14,121,5258045,2.301,1.891,2.711,0.209,Suicide,African American South,2015-2019
+,15-19 years,15-19,463,5402408,8.570,7.790,9.351,0.398,Suicide,African American South,2015-2019
+,20-24 years,20-24,937,5914210,15.843,14.829,16.858,0.518,Suicide,African American South,2015-2019
+,25-29 years,25-29,990,5954720,16.625,15.590,17.661,0.528,Suicide,African American South,2015-2019
+,30-34 years,30-34,995,5319094,18.706,17.544,19.869,0.593,Suicide,African American South,2015-2019
+,35-39 years,35-39,1036,5072508,20.424,19.180,21.668,0.635,Suicide,African American South,2015-2019
+,40-44 years,40-44,942,4743038,19.861,18.592,21.129,0.647,Suicide,African American South,2015-2019
+,45-49 years,45-49,1014,5001230,20.275,19.027,21.523,0.637,Suicide,African American South,2015-2019
+,50-54 years,50-54,985,5317902,18.522,17.366,19.679,0.590,Suicide,African American South,2015-2019
+,55-59 years,55-59,1060,5617802,18.869,17.733,20.004,0.580,Suicide,African American South,2015-2019
+,60-64 years ,60-64,938,5256107,17.846,16.704,18.988,0.583,Suicide,African American South,2015-2019
+,65-69 years,65-69,670,4486634,14.933,13.802,16.064,0.577,Suicide,African American South,2015-2019
+,70-74 years,70-74,605,3372203,17.941,16.511,19.370,0.729,Suicide,African American South,2015-2019
+,75-79 years,75-79,420,2333507,17.999,16.277,19.720,0.878,Suicide,African American South,2015-2019
+,80-84 years,80-84,272,1559965,17.436,15.364,19.508,1.057,Suicide,African American South,2015-2019
+,85-89 years,85-89,202,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,African American South,2015-2019
+,90-94 years,90-94,72,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,African American South,2015-2019
+,95-99 years,95-99,15,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,African American South,2015-2019
+,100+ years,100+,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,African American South,2015-2019
+,Not Stated,NS,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,African American South,2015-2019
+Total,,,11742,82538951,14.226,13.969,14.483,0.131,Suicide,African American South,2015-2019

@@ -1,0 +1,25 @@
+notes,five_year_age_groups,five_year_age_groups_code,deaths,population,crude_rate,crude_rate_lower_95_percent_confidence_interval,crude_rate_upper_95_percent_confidence_interval,crude_rate_standard_error,death_cause,acp_name,time_period
+,< 1 year,1,Suppressed,32503,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,Aging Farmlands,2015-2019
+,1-4 years,1-4,Suppressed,134880,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,Aging Farmlands,2015-2019
+,5-9 years,5-9,Suppressed,171940,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,Aging Farmlands,2015-2019
+,10-14 years,10-14,Suppressed,175636,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,Aging Farmlands,2015-2019
+,15-19 years,15-19,29,161786,17.925,12.005,25.743,3.329,Suicide,Aging Farmlands,2015-2019
+,20-24 years,20-24,37,137019,27.004,19.013,37.221,4.439,Suicide,Aging Farmlands,2015-2019
+,25-29 years,25-29,47,134735,34.883,25.631,46.387,5.088,Suicide,Aging Farmlands,2015-2019
+,30-34 years,30-34,42,141541,29.673,21.386,40.110,4.579,Suicide,Aging Farmlands,2015-2019
+,35-39 years,35-39,39,145268,26.847,19.091,36.701,4.299,Suicide,Aging Farmlands,2015-2019
+,40-44 years,40-44,27,136699,19.751,13.016,28.737,3.801,Suicide,Aging Farmlands,2015-2019
+,45-49 years,45-49,36,146271,24.612,17.238,34.073,4.102,Suicide,Aging Farmlands,2015-2019
+,50-54 years,50-54,44,178780,24.611,17.883,33.039,3.710,Suicide,Aging Farmlands,2015-2019
+,55-59 years,55-59,47,221282,21.240,15.606,28.245,3.098,Suicide,Aging Farmlands,2015-2019
+,60-64 years ,60-64,47,221778,21.192,15.571,28.181,3.091,Suicide,Aging Farmlands,2015-2019
+,65-69 years,65-69,35,189871,18.434,12.840,25.637,3.116,Suicide,Aging Farmlands,2015-2019
+,70-74 years,70-74,16,147617,Unreliable,6.195,17.602,2.710,Suicide,Aging Farmlands,2015-2019
+,75-79 years,75-79,27,117216,23.034,15.180,33.514,4.433,Suicide,Aging Farmlands,2015-2019
+,80-84 years,80-84,14,95912,Unreliable,7.980,24.491,3.901,Suicide,Aging Farmlands,2015-2019
+,85-89 years,85-89,12,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Aging Farmlands,2015-2019
+,90-94 years,90-94,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Aging Farmlands,2015-2019
+,95-99 years,95-99,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Aging Farmlands,2015-2019
+,100+ years,100+,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Aging Farmlands,2015-2019
+,Not Stated,NS,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Aging Farmlands,2015-2019
+Total,,,516,2807200,18.381,16.795,19.967,0.809,Suicide,Aging Farmlands,2015-2019

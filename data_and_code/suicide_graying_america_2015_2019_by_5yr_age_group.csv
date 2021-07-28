@@ -1,0 +1,25 @@
+notes,five_year_age_groups,five_year_age_groups_code,deaths,population,crude_rate,crude_rate_lower_95_percent_confidence_interval,crude_rate_upper_95_percent_confidence_interval,crude_rate_standard_error,death_cause,acp_name,time_period
+,< 1 year,1,Suppressed,795508,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,Graying America,2015-2019
+,1-4 years,1-4,Suppressed,3318036,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,Graying America,2015-2019
+,5-9 years,5-9,Suppressed,4382423,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,Graying America,2015-2019
+,10-14 years,10-14,146,4567572,3.196,2.678,3.715,0.265,Suicide,Graying America,2015-2019
+,15-19 years,15-19,695,4501819,15.438,14.290,16.586,0.586,Suicide,Graying America,2015-2019
+,20-24 years,20-24,992,4303574,23.051,21.616,24.485,0.732,Suicide,Graying America,2015-2019
+,25-29 years,25-29,1111,4662503,23.828,22.427,25.230,0.715,Suicide,Graying America,2015-2019
+,30-34 years,30-34,1170,4506536,25.962,24.475,27.450,0.759,Suicide,Graying America,2015-2019
+,35-39 years,35-39,1161,4495054,25.828,24.343,27.314,0.758,Suicide,Graying America,2015-2019
+,40-44 years,40-44,1125,4375455,25.712,24.209,27.214,0.767,Suicide,Graying America,2015-2019
+,45-49 years,45-49,1453,4814019,30.183,28.631,31.735,0.792,Suicide,Graying America,2015-2019
+,50-54 years,50-54,1634,5335680,30.624,29.139,32.109,0.758,Suicide,Graying America,2015-2019
+,55-59 years,55-59,1824,6093194,29.935,28.561,31.309,0.701,Suicide,Graying America,2015-2019
+,60-64 years ,60-64,1531,6333195,24.174,22.963,25.385,0.618,Suicide,Graying America,2015-2019
+,65-69 years,65-69,1342,6303299,21.290,20.151,22.430,0.581,Suicide,Graying America,2015-2019
+,70-74 years,70-74,1126,5307413,21.216,19.976,22.455,0.632,Suicide,Graying America,2015-2019
+,75-79 years,75-79,942,3786089,24.881,23.292,26.469,0.811,Suicide,Graying America,2015-2019
+,80-84 years,80-84,678,2448409,27.691,25.607,29.776,1.063,Suicide,Graying America,2015-2019
+,85-89 years,85-89,512,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Graying America,2015-2019
+,90-94 years,90-94,219,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Graying America,2015-2019
+,95-99 years,95-99,30,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Graying America,2015-2019
+,100+ years,100+,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Graying America,2015-2019
+,Not Stated,NS,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Graying America,2015-2019
+Total,,,17697,82655193,21.411,21.095,21.726,0.161,Suicide,Graying America,2015-2019

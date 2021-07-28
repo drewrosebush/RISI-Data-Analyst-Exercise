@@ -1,0 +1,25 @@
+notes,five_year_age_groups,five_year_age_groups_code,deaths,population,crude_rate,crude_rate_lower_95_percent_confidence_interval,crude_rate_upper_95_percent_confidence_interval,crude_rate_standard_error,death_cause,acp_name,time_period
+,< 1 year,1,Suppressed,522661,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,Working Class Country,2005-2009
+,1-4 years,1-4,Suppressed,2034578,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,Working Class Country,2005-2009
+,5-9 years,5-9,Suppressed,2641519,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,Working Class Country,2005-2009
+,10-14 years,10-14,35,2850900,1.228,0.855,1.707,0.208,Suicide,Working Class Country,2005-2009
+,15-19 years,15-19,256,2891568,8.853,7.769,9.938,0.553,Suicide,Working Class Country,2005-2009
+,20-24 years,20-24,457,2289773,19.958,18.128,21.788,0.934,Suicide,Working Class Country,2005-2009
+,25-29 years,25-29,402,2327107,17.275,15.586,18.963,0.862,Suicide,Working Class Country,2005-2009
+,30-34 years,30-34,496,2387446,20.775,18.947,22.604,0.933,Suicide,Working Class Country,2005-2009
+,35-39 years,35-39,574,2702876,21.237,19.499,22.974,0.886,Suicide,Working Class Country,2005-2009
+,40-44 years,40-44,682,2989666,22.812,21.100,24.524,0.874,Suicide,Working Class Country,2005-2009
+,45-49 years,45-49,782,3277310,23.861,22.189,25.533,0.853,Suicide,Working Class Country,2005-2009
+,50-54 years,50-54,695,3200802,21.713,20.099,23.328,0.824,Suicide,Working Class Country,2005-2009
+,55-59 years,55-59,527,3009386,17.512,16.017,19.007,0.763,Suicide,Working Class Country,2005-2009
+,60-64 years ,60-64,425,2599820,16.347,14.793,17.901,0.793,Suicide,Working Class Country,2005-2009
+,65-69 years,65-69,304,2158810,14.082,12.499,15.665,0.808,Suicide,Working Class Country,2005-2009
+,70-74 years,70-74,274,1710094,16.023,14.125,17.920,0.968,Suicide,Working Class Country,2005-2009
+,75-79 years,75-79,248,1352290,18.339,16.057,20.622,1.165,Suicide,Working Class Country,2005-2009
+,80-84 years,80-84,196,979831,20.003,17.203,22.804,1.429,Suicide,Working Class Country,2005-2009
+,85-89 years,85-89,123,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Working Class Country,2005-2009
+,90-94 years,90-94,37,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Working Class Country,2005-2009
+,95-99 years,95-99,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Working Class Country,2005-2009
+,100+ years,100+,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Working Class Country,2005-2009
+,Not Stated,NS,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Working Class Country,2005-2009
+Total,,,6519,42766563,15.243,14.873,15.613,0.189,Suicide,Working Class Country,2005-2009

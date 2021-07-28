@@ -1,0 +1,25 @@
+notes,five_year_age_groups,five_year_age_groups_code,deaths,population,crude_rate,crude_rate_lower_95_percent_confidence_interval,crude_rate_upper_95_percent_confidence_interval,crude_rate_standard_error,death_cause,acp_name,time_period
+,< 1 year,1,Suppressed,706746,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,Military Posts,2015-2019
+,1-4 years,1-4,Suppressed,2843748,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,Military Posts,2015-2019
+,5-9 years,5-9,Suppressed,3500122,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,Military Posts,2015-2019
+,10-14 years,10-14,134,3429863,3.907,3.245,4.568,0.338,Suicide,Military Posts,2015-2019
+,15-19 years,15-19,499,3406855,14.647,13.362,15.932,0.656,Suicide,Military Posts,2015-2019
+,20-24 years,20-24,948,4086060,23.201,21.724,24.678,0.754,Suicide,Military Posts,2015-2019
+,25-29 years,25-29,905,4141614,21.851,20.428,23.275,0.726,Suicide,Military Posts,2015-2019
+,30-34 years,30-34,831,3778572,21.992,20.497,23.488,0.763,Suicide,Military Posts,2015-2019
+,35-39 years,35-39,809,3450127,23.448,21.833,25.064,0.824,Suicide,Military Posts,2015-2019
+,40-44 years,40-44,700,3035168,23.063,21.354,24.772,0.872,Suicide,Military Posts,2015-2019
+,45-49 years,45-49,740,3099625,23.874,22.154,25.594,0.878,Suicide,Military Posts,2015-2019
+,50-54 years,50-54,779,3266517,23.848,22.173,25.523,0.854,Suicide,Military Posts,2015-2019
+,55-59 years,55-59,770,3388401,22.725,21.119,24.330,0.819,Suicide,Military Posts,2015-2019
+,60-64 years ,60-64,627,3011453,20.821,19.191,22.450,0.831,Suicide,Military Posts,2015-2019
+,65-69 years,65-69,482,2531831,19.038,17.338,20.737,0.867,Suicide,Military Posts,2015-2019
+,70-74 years,70-74,360,1916134,18.788,16.847,20.729,0.990,Suicide,Military Posts,2015-2019
+,75-79 years,75-79,246,1293667,19.016,16.639,21.392,1.212,Suicide,Military Posts,2015-2019
+,80-84 years,80-84,193,853685,22.608,19.418,25.797,1.627,Suicide,Military Posts,2015-2019
+,85-89 years,85-89,137,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Military Posts,2015-2019
+,90-94 years,90-94,58,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Military Posts,2015-2019
+,95-99 years,95-99,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Military Posts,2015-2019
+,100+ years,100+,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Military Posts,2015-2019
+,Not Stated,NS,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Military Posts,2015-2019
+Total,,,9227,52553422,17.557,17.199,17.916,0.183,Suicide,Military Posts,2015-2019

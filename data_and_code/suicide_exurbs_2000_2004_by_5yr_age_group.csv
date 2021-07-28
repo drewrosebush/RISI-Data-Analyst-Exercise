@@ -1,0 +1,25 @@
+notes,five_year_age_groups,five_year_age_groups_code,deaths,population,crude_rate,crude_rate_lower_95_percent_confidence_interval,crude_rate_upper_95_percent_confidence_interval,crude_rate_standard_error,death_cause,acp_name,time_period
+,< 1 year,1,Suppressed,1907459,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,Exurbs,2000-2004
+,1-4 years,1-4,Suppressed,7881388,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,Exurbs,2000-2004
+,5-9 years,5-9,Suppressed,10292986,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,Exurbs,2000-2004
+,10-14 years,10-14,162,10788424,1.502,1.270,1.733,0.118,Suicide,Exurbs,2000-2004
+,15-19 years,15-19,830,9705818,8.552,7.970,9.133,0.297,Suicide,Exurbs,2000-2004
+,20-24 years,20-24,1130,7828732,14.434,13.592,15.276,0.429,Suicide,Exurbs,2000-2004
+,25-29 years,25-29,1035,8228055,12.579,11.813,13.345,0.391,Suicide,Exurbs,2000-2004
+,30-34 years,30-34,1304,10092712,12.920,12.219,13.621,0.358,Suicide,Exurbs,2000-2004
+,35-39 years,35-39,1599,11385272,14.044,13.356,14.733,0.351,Suicide,Exurbs,2000-2004
+,40-44 years,40-44,1843,12001364,15.357,14.655,16.058,0.358,Suicide,Exurbs,2000-2004
+,45-49 years,45-49,1737,10746501,16.163,15.403,16.924,0.388,Suicide,Exurbs,2000-2004
+,50-54 years,50-54,1329,9277301,14.325,13.555,15.095,0.393,Suicide,Exurbs,2000-2004
+,55-59 years,55-59,1057,7308775,14.462,13.590,15.334,0.445,Suicide,Exurbs,2000-2004
+,60-64 years ,60-64,686,5314913,12.907,11.941,13.873,0.493,Suicide,Exurbs,2000-2004
+,65-69 years,65-69,559,4072864,13.725,12.587,14.863,0.581,Suicide,Exurbs,2000-2004
+,70-74 years,70-74,474,3407731,13.910,12.657,15.162,0.639,Suicide,Exurbs,2000-2004
+,75-79 years,75-79,459,2751454,16.682,15.156,18.208,0.779,Suicide,Exurbs,2000-2004
+,80-84 years,80-84,343,1888280,18.165,16.242,20.087,0.981,Suicide,Exurbs,2000-2004
+,85-89 years,85-89,208,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Exurbs,2000-2004
+,90-94 years,90-94,66,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Exurbs,2000-2004
+,95-99 years,95-99,14,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Exurbs,2000-2004
+,100+ years,100+,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Exurbs,2000-2004
+,Not Stated,NS,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Exurbs,2000-2004
+Total,,,14844,136427381,10.881,10.705,11.056,0.089,Suicide,Exurbs,2000-2004

@@ -1,0 +1,25 @@
+notes,five_year_age_groups,five_year_age_groups_code,deaths,population,crude_rate,crude_rate_lower_95_percent_confidence_interval,crude_rate_upper_95_percent_confidence_interval,crude_rate_standard_error,death_cause,acp_name,time_period
+,< 1 year,1,Suppressed,996554,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,Middle Suburbs,2005-2009
+,1-4 years,1-4,Suppressed,4021356,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,Middle Suburbs,2005-2009
+,5-9 years,5-9,Suppressed,5216854,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,Middle Suburbs,2005-2009
+,10-14 years,10-14,76,5543388,1.371,1.080,1.716,0.157,Suicide,Middle Suburbs,2005-2009
+,15-19 years,15-19,467,5781112,8.078,7.345,8.811,0.374,Suicide,Middle Suburbs,2005-2009
+,20-24 years,20-24,663,5111394,12.971,11.984,13.958,0.504,Suicide,Middle Suburbs,2005-2009
+,25-29 years,25-29,732,4876487,15.011,13.923,16.098,0.555,Suicide,Middle Suburbs,2005-2009
+,30-34 years,30-34,745,4711082,15.814,14.678,16.949,0.579,Suicide,Middle Suburbs,2005-2009
+,35-39 years,35-39,895,5374694,16.652,15.561,17.743,0.557,Suicide,Middle Suburbs,2005-2009
+,40-44 years,40-44,1078,5890560,18.300,17.208,19.393,0.557,Suicide,Middle Suburbs,2005-2009
+,45-49 years,45-49,1185,6360506,18.631,17.570,19.691,0.541,Suicide,Middle Suburbs,2005-2009
+,50-54 years,50-54,1058,6031935,17.540,16.483,18.597,0.539,Suicide,Middle Suburbs,2005-2009
+,55-59 years,55-59,791,5304077,14.913,13.874,15.952,0.530,Suicide,Middle Suburbs,2005-2009
+,60-64 years ,60-64,522,4150369,12.577,11.498,13.656,0.550,Suicide,Middle Suburbs,2005-2009
+,65-69 years,65-69,330,3188261,10.350,9.234,11.467,0.570,Suicide,Middle Suburbs,2005-2009
+,70-74 years,70-74,279,2605379,10.709,9.452,11.965,0.641,Suicide,Middle Suburbs,2005-2009
+,75-79 years,75-79,315,2327546,13.534,12.039,15.028,0.763,Suicide,Middle Suburbs,2005-2009
+,80-84 years,80-84,271,1868390,14.504,12.778,16.231,0.881,Suicide,Middle Suburbs,2005-2009
+,85-89 years,85-89,158,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Middle Suburbs,2005-2009
+,90-94 years,90-94,54,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Middle Suburbs,2005-2009
+,95-99 years,95-99,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Middle Suburbs,2005-2009
+,100+ years,100+,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Middle Suburbs,2005-2009
+,Not Stated,NS,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Middle Suburbs,2005-2009
+Total,,,9628,81003043,11.886,11.649,12.123,0.121,Suicide,Middle Suburbs,2005-2009

@@ -1,0 +1,25 @@
+notes,five_year_age_groups,five_year_age_groups_code,deaths,population,crude_rate,crude_rate_lower_95_percent_confidence_interval,crude_rate_upper_95_percent_confidence_interval,crude_rate_standard_error,death_cause,acp_name,time_period
+,< 1 year,1,Suppressed,467111,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,Working Class Country,2010-2014
+,1-4 years,1-4,Suppressed,1958384,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,Working Class Country,2010-2014
+,5-9 years,5-9,Suppressed,2602333,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,Working Class Country,2010-2014
+,10-14 years,10-14,53,2732602,1.940,1.453,2.537,0.266,Suicide,Working Class Country,2010-2014
+,15-19 years,15-19,323,2680438,12.050,10.736,13.364,0.670,Suicide,Working Class Country,2010-2014
+,20-24 years,20-24,476,2354598,20.216,18.400,22.032,0.927,Suicide,Working Class Country,2010-2014
+,25-29 years,25-29,490,2255326,21.726,19.803,23.650,0.981,Suicide,Working Class Country,2010-2014
+,30-34 years,30-34,561,2378571,23.586,21.634,25.537,0.996,Suicide,Working Class Country,2010-2014
+,35-39 years,35-39,536,2438540,21.980,20.120,23.841,0.949,Suicide,Working Class Country,2010-2014
+,40-44 years,40-44,694,2714596,25.565,23.663,27.468,0.970,Suicide,Working Class Country,2010-2014
+,45-49 years,45-49,771,2988189,25.802,23.980,27.623,0.929,Suicide,Working Class Country,2010-2014
+,50-54 years,50-54,806,3270959,24.641,22.940,26.342,0.868,Suicide,Working Class Country,2010-2014
+,55-59 years,55-59,760,3199099,23.757,22.068,25.446,0.862,Suicide,Working Class Country,2010-2014
+,60-64 years ,60-64,551,2985160,18.458,16.917,19.999,0.786,Suicide,Working Class Country,2010-2014
+,65-69 years,65-69,412,2521883,16.337,14.759,17.915,0.805,Suicide,Working Class Country,2010-2014
+,70-74 years,70-74,388,1946453,19.934,17.950,21.917,1.012,Suicide,Working Class Country,2010-2014
+,75-79 years,75-79,274,1420634,19.287,17.003,21.571,1.165,Suicide,Working Class Country,2010-2014
+,80-84 years,80-84,214,1009509,21.198,18.358,24.039,1.449,Suicide,Working Class Country,2010-2014
+,85-89 years,85-89,149,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Working Class Country,2010-2014
+,90-94 years,90-94,40,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Working Class Country,2010-2014
+,95-99 years,95-99,12,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Working Class Country,2010-2014
+,100+ years,100+,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Working Class Country,2010-2014
+,Not Stated,NS,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Working Class Country,2010-2014
+Total,,,7513,42853919,17.532,17.135,17.928,0.202,Suicide,Working Class Country,2010-2014

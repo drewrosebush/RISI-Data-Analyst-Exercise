@@ -1,0 +1,25 @@
+notes,five_year_age_groups,five_year_age_groups_code,deaths,population,crude_rate,crude_rate_lower_95_percent_confidence_interval,crude_rate_upper_95_percent_confidence_interval,crude_rate_standard_error,death_cause,acp_name,time_period
+,< 1 year,1,Suppressed,990548,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,College Towns,2000-2004
+,1-4 years,1-4,Suppressed,3886183,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,College Towns,2000-2004
+,5-9 years,5-9,Suppressed,4993128,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,College Towns,2000-2004
+,10-14 years,10-14,76,5360649,1.418,1.117,1.775,0.163,Suicide,College Towns,2000-2004
+,15-19 years,15-19,480,7407532,6.480,5.900,7.060,0.296,Suicide,College Towns,2000-2004
+,20-24 years,20-24,822,9844312,8.350,7.779,8.921,0.291,Suicide,College Towns,2000-2004
+,25-29 years,25-29,686,5303223,12.936,11.968,13.904,0.494,Suicide,College Towns,2000-2004
+,30-34 years,30-34,853,5446138,15.662,14.611,16.714,0.536,Suicide,College Towns,2000-2004
+,35-39 years,35-39,898,5617931,15.985,14.939,17.030,0.533,Suicide,College Towns,2000-2004
+,40-44 years,40-44,1065,6106745,17.440,16.392,18.487,0.534,Suicide,College Towns,2000-2004
+,45-49 years,45-49,1071,5962654,17.962,16.886,19.038,0.549,Suicide,College Towns,2000-2004
+,50-54 years,50-54,919,5365142,17.129,16.022,18.237,0.565,Suicide,College Towns,2000-2004
+,55-59 years,55-59,665,4139550,16.065,14.844,17.286,0.623,Suicide,College Towns,2000-2004
+,60-64 years ,60-64,391,3106796,12.585,11.338,13.833,0.636,Suicide,College Towns,2000-2004
+,65-69 years,65-69,369,2552228,14.458,12.983,15.933,0.753,Suicide,College Towns,2000-2004
+,70-74 years,70-74,336,2294753,14.642,13.076,16.208,0.799,Suicide,College Towns,2000-2004
+,75-79 years,75-79,331,1984245,16.681,14.884,18.479,0.917,Suicide,College Towns,2000-2004
+,80-84 years,80-84,273,1447530,18.860,16.622,21.097,1.141,Suicide,College Towns,2000-2004
+,85-89 years,85-89,142,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,College Towns,2000-2004
+,90-94 years,90-94,58,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,College Towns,2000-2004
+,95-99 years,95-99,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,College Towns,2000-2004
+,100+ years,100+,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,College Towns,2000-2004
+,Not Stated,NS,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,College Towns,2000-2004
+Total,,,9445,83073318,11.369,11.140,11.599,0.117,Suicide,College Towns,2000-2004

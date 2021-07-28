@@ -1,0 +1,25 @@
+notes,five_year_age_groups,five_year_age_groups_code,deaths,population,crude_rate,crude_rate_lower_95_percent_confidence_interval,crude_rate_upper_95_percent_confidence_interval,crude_rate_standard_error,death_cause,acp_name,time_period
+,< 1 year,1,Suppressed,1265380,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,Rural Middle America,2000-2004
+,1-4 years,1-4,Suppressed,5186745,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,Rural Middle America,2000-2004
+,5-9 years,5-9,Suppressed,7062526,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,Rural Middle America,2000-2004
+,10-14 years,10-14,107,7862149,1.361,1.103,1.619,0.132,Suicide,Rural Middle America,2000-2004
+,15-19 years,15-19,780,7975703,9.780,9.093,10.466,0.350,Suicide,Rural Middle America,2000-2004
+,20-24 years,20-24,1006,6461320,15.570,14.607,16.532,0.491,Suicide,Rural Middle America,2000-2004
+,25-29 years,25-29,892,5699381,15.651,14.624,16.678,0.524,Suicide,Rural Middle America,2000-2004
+,30-34 years,30-34,1006,6579633,15.290,14.345,16.234,0.482,Suicide,Rural Middle America,2000-2004
+,35-39 years,35-39,1202,7554383,15.911,15.012,16.811,0.459,Suicide,Rural Middle America,2000-2004
+,40-44 years,40-44,1462,8498657,17.203,16.321,18.085,0.450,Suicide,Rural Middle America,2000-2004
+,45-49 years,45-49,1301,8223824,15.820,14.960,16.680,0.439,Suicide,Rural Middle America,2000-2004
+,50-54 years,50-54,1062,7331255,14.486,13.615,15.357,0.445,Suicide,Rural Middle America,2000-2004
+,55-59 years,55-59,798,5920360,13.479,12.544,14.414,0.477,Suicide,Rural Middle America,2000-2004
+,60-64 years ,60-64,565,4829210,11.700,10.735,12.664,0.492,Suicide,Rural Middle America,2000-2004
+,65-69 years,65-69,460,4128785,11.141,10.123,12.159,0.519,Suicide,Rural Middle America,2000-2004
+,70-74 years,70-74,485,3830615,12.661,11.534,13.788,0.575,Suicide,Rural Middle America,2000-2004
+,75-79 years,75-79,538,3365752,15.985,14.634,17.335,0.689,Suicide,Rural Middle America,2000-2004
+,80-84 years,80-84,400,2474290,16.166,14.582,17.751,0.808,Suicide,Rural Middle America,2000-2004
+,85-89 years,85-89,238,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Rural Middle America,2000-2004
+,90-94 years,90-94,81,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Rural Middle America,2000-2004
+,95-99 years,95-99,18,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Rural Middle America,2000-2004
+,100+ years,100+,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Rural Middle America,2000-2004
+,Not Stated,NS,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Rural Middle America,2000-2004
+Total,,,12405,106454524,11.653,11.448,11.858,0.105,Suicide,Rural Middle America,2000-2004

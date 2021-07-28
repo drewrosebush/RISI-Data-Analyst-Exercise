@@ -1,0 +1,25 @@
+notes,five_year_age_groups,five_year_age_groups_code,deaths,population,crude_rate,crude_rate_lower_95_percent_confidence_interval,crude_rate_upper_95_percent_confidence_interval,crude_rate_standard_error,death_cause,acp_name,time_period
+,< 1 year,1,Suppressed,661311,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,Military Posts,2000-2004
+,1-4 years,1-4,Suppressed,2571209,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,Military Posts,2000-2004
+,5-9 years,5-9,Suppressed,3240302,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,Military Posts,2000-2004
+,10-14 years,10-14,66,3436807,1.920,1.485,2.443,0.236,Suicide,Military Posts,2000-2004
+,15-19 years,15-19,333,3443882,9.669,8.631,10.708,0.530,Suicide,Military Posts,2000-2004
+,20-24 years,20-24,515,3602090,14.297,13.062,15.532,0.630,Suicide,Military Posts,2000-2004
+,25-29 years,25-29,457,3030375,15.081,13.698,16.463,0.705,Suicide,Military Posts,2000-2004
+,30-34 years,30-34,479,3152971,15.192,13.832,16.553,0.694,Suicide,Military Posts,2000-2004
+,35-39 years,35-39,537,3446342,15.582,14.264,16.900,0.672,Suicide,Military Posts,2000-2004
+,40-44 years,40-44,655,3573947,18.327,16.924,19.731,0.716,Suicide,Military Posts,2000-2004
+,45-49 years,45-49,586,3235742,18.110,16.644,19.577,0.748,Suicide,Military Posts,2000-2004
+,50-54 years,50-54,466,2776127,16.786,15.262,18.310,0.778,Suicide,Military Posts,2000-2004
+,55-59 years,55-59,320,2198579,14.555,12.960,16.150,0.814,Suicide,Military Posts,2000-2004
+,60-64 years ,60-64,224,1694564,13.219,11.488,14.950,0.883,Suicide,Military Posts,2000-2004
+,65-69 years,65-69,179,1403745,12.752,10.884,14.620,0.953,Suicide,Military Posts,2000-2004
+,70-74 years,70-74,197,1174054,16.779,14.436,19.123,1.195,Suicide,Military Posts,2000-2004
+,75-79 years,75-79,191,919297,20.777,17.830,23.723,1.503,Suicide,Military Posts,2000-2004
+,80-84 years,80-84,129,614896,20.979,17.359,24.599,1.847,Suicide,Military Posts,2000-2004
+,85-89 years,85-89,78,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Military Posts,2000-2004
+,90-94 years,90-94,20,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Military Posts,2000-2004
+,95-99 years,95-99,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Military Posts,2000-2004
+,100+ years,100+,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Military Posts,2000-2004
+,Not Stated,NS,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Military Posts,2000-2004
+Total,,,5439,44654819,12.180,11.856,12.504,0.165,Suicide,Military Posts,2000-2004

@@ -1,0 +1,25 @@
+notes,five_year_age_groups,five_year_age_groups_code,deaths,population,crude_rate,crude_rate_lower_95_percent_confidence_interval,crude_rate_upper_95_percent_confidence_interval,crude_rate_standard_error,death_cause,acp_name,time_period
+,< 1 year,1,Suppressed,925388,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,Middle Suburbs,2015-2019
+,1-4 years,1-4,Suppressed,3834203,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,Middle Suburbs,2015-2019
+,5-9 years,5-9,Suppressed,4948258,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,Middle Suburbs,2015-2019
+,10-14 years,10-14,127,5171810,2.456,2.029,2.883,0.218,Suicide,Middle Suburbs,2015-2019
+,15-19 years,15-19,623,5313982,11.724,10.803,12.644,0.470,Suicide,Middle Suburbs,2015-2019
+,20-24 years,20-24,944,5279486,17.881,16.740,19.021,0.582,Suicide,Middle Suburbs,2015-2019
+,25-29 years,25-29,970,5226143,18.561,17.392,19.729,0.596,Suicide,Middle Suburbs,2015-2019
+,30-34 years,30-34,1040,4973180,20.912,19.641,22.183,0.648,Suicide,Middle Suburbs,2015-2019
+,35-39 years,35-39,973,4950590,19.654,18.419,20.889,0.630,Suicide,Middle Suburbs,2015-2019
+,40-44 years,40-44,1056,4768084,22.147,20.811,23.483,0.682,Suicide,Middle Suburbs,2015-2019
+,45-49 years,45-49,1141,5270598,21.648,20.392,22.905,0.641,Suicide,Middle Suburbs,2015-2019
+,50-54 years,50-54,1330,5678622,23.421,22.162,24.680,0.642,Suicide,Middle Suburbs,2015-2019
+,55-59 years,55-59,1374,6020995,22.820,21.613,24.027,0.616,Suicide,Middle Suburbs,2015-2019
+,60-64 years ,60-64,987,5549702,17.785,16.675,18.894,0.566,Suicide,Middle Suburbs,2015-2019
+,65-69 years,65-69,678,4688579,14.461,13.372,15.549,0.555,Suicide,Middle Suburbs,2015-2019
+,70-74 years,70-74,532,3513955,15.140,13.853,16.426,0.656,Suicide,Middle Suburbs,2015-2019
+,75-79 years,75-79,423,2492141,16.973,15.356,18.591,0.825,Suicide,Middle Suburbs,2015-2019
+,80-84 years,80-84,331,1762451,18.781,16.757,20.804,1.032,Suicide,Middle Suburbs,2015-2019
+,85-89 years,85-89,218,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Middle Suburbs,2015-2019
+,90-94 years,90-94,103,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Middle Suburbs,2015-2019
+,95-99 years,95-99,20,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Middle Suburbs,2015-2019
+,100+ years,100+,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Middle Suburbs,2015-2019
+,Not Stated,NS,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Middle Suburbs,2015-2019
+Total,,,12873,82350404,15.632,15.362,15.902,0.138,Suicide,Middle Suburbs,2015-2019

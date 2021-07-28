@@ -1,0 +1,25 @@
+notes,five_year_age_groups,five_year_age_groups_code,deaths,population,crude_rate,crude_rate_lower_95_percent_confidence_interval,crude_rate_upper_95_percent_confidence_interval,crude_rate_standard_error,death_cause,acp_name,time_period
+,< 1 year,1,Suppressed,284998,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,LDS Enclaves,2010-2014
+,1-4 years,1-4,Suppressed,1153533,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,LDS Enclaves,2010-2014
+,5-9 years,5-9,Suppressed,1430317,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,LDS Enclaves,2010-2014
+,10-14 years,10-14,37,1330786,2.780,1.958,3.832,0.457,Suicide,LDS Enclaves,2010-2014
+,15-19 years,15-19,197,1248464,15.779,13.576,17.983,1.124,Suicide,LDS Enclaves,2010-2014
+,20-24 years,20-24,278,1339385,20.756,18.316,23.196,1.245,Suicide,LDS Enclaves,2010-2014
+,25-29 years,25-29,307,1218148,25.202,22.383,28.021,1.438,Suicide,LDS Enclaves,2010-2014
+,30-34 years,30-34,314,1237129,25.381,22.574,28.189,1.432,Suicide,LDS Enclaves,2010-2014
+,35-39 years,35-39,276,1060760,26.019,22.949,29.089,1.566,Suicide,LDS Enclaves,2010-2014
+,40-44 years,40-44,249,912215,27.296,23.906,30.687,1.730,Suicide,LDS Enclaves,2010-2014
+,45-49 years,45-49,261,843242,30.952,27.197,34.707,1.916,Suicide,LDS Enclaves,2010-2014
+,50-54 years,50-54,309,872400,35.420,31.470,39.369,2.015,Suicide,LDS Enclaves,2010-2014
+,55-59 years,55-59,242,808102,29.947,26.174,33.720,1.925,Suicide,LDS Enclaves,2010-2014
+,60-64 years ,60-64,182,674052,27.001,23.078,30.924,2.001,Suicide,LDS Enclaves,2010-2014
+,65-69 years,65-69,101,511655,19.740,15.890,23.590,1.964,Suicide,LDS Enclaves,2010-2014
+,70-74 years,70-74,84,375335,22.380,17.851,27.708,2.442,Suicide,LDS Enclaves,2010-2014
+,75-79 years,75-79,55,279505,19.678,14.824,25.613,2.653,Suicide,LDS Enclaves,2010-2014
+,80-84 years,80-84,53,205760,25.758,19.295,33.692,3.538,Suicide,LDS Enclaves,2010-2014
+,85-89 years,85-89,24,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,LDS Enclaves,2010-2014
+,90-94 years,90-94,12,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,LDS Enclaves,2010-2014
+,95-99 years,95-99,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,LDS Enclaves,2010-2014
+,100+ years,100+,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,LDS Enclaves,2010-2014
+,Not Stated,NS,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,LDS Enclaves,2010-2014
+Total,,,2983,15978132,18.669,17.999,19.339,0.342,Suicide,LDS Enclaves,2010-2014

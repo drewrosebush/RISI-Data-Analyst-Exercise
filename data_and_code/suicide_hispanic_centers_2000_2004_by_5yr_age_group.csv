@@ -1,0 +1,25 @@
+notes,five_year_age_groups,five_year_age_groups_code,deaths,population,crude_rate,crude_rate_lower_95_percent_confidence_interval,crude_rate_upper_95_percent_confidence_interval,crude_rate_standard_error,death_cause,acp_name,time_period
+,< 1 year,1,Suppressed,911750,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,Hispanic Centers,2000-2004
+,1-4 years,1-4,Suppressed,3430887,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,Hispanic Centers,2000-2004
+,5-9 years,5-9,Suppressed,4295576,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,Hispanic Centers,2000-2004
+,10-14 years,10-14,60,4536179,1.323,1.009,1.703,0.171,Suicide,Hispanic Centers,2000-2004
+,15-19 years,15-19,334,4336460,7.702,6.876,8.528,0.421,Suicide,Hispanic Centers,2000-2004
+,20-24 years,20-24,421,3819511,11.022,9.969,12.075,0.537,Suicide,Hispanic Centers,2000-2004
+,25-29 years,25-29,395,3500069,11.285,10.173,12.398,0.568,Suicide,Hispanic Centers,2000-2004
+,30-34 years,30-34,434,3550206,12.225,11.075,13.375,0.587,Suicide,Hispanic Centers,2000-2004
+,35-39 years,35-39,464,3647211,12.722,11.564,13.880,0.591,Suicide,Hispanic Centers,2000-2004
+,40-44 years,40-44,535,3722715,14.371,13.153,15.589,0.621,Suicide,Hispanic Centers,2000-2004
+,45-49 years,45-49,505,3383776,14.924,13.622,16.226,0.664,Suicide,Hispanic Centers,2000-2004
+,50-54 years,50-54,400,2915317,13.721,12.376,15.065,0.686,Suicide,Hispanic Centers,2000-2004
+,55-59 years,55-59,303,2310451,13.114,11.638,14.591,0.753,Suicide,Hispanic Centers,2000-2004
+,60-64 years ,60-64,215,1833912,11.724,10.156,13.291,0.800,Suicide,Hispanic Centers,2000-2004
+,65-69 years,65-69,163,1597647,10.203,8.636,11.769,0.799,Suicide,Hispanic Centers,2000-2004
+,70-74 years,70-74,192,1409885,13.618,11.692,15.544,0.983,Suicide,Hispanic Centers,2000-2004
+,75-79 years,75-79,191,1151585,16.586,14.234,18.938,1.200,Suicide,Hispanic Centers,2000-2004
+,80-84 years,80-84,171,774411,22.081,18.772,25.391,1.689,Suicide,Hispanic Centers,2000-2004
+,85-89 years,85-89,91,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Hispanic Centers,2000-2004
+,90-94 years,90-94,36,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Hispanic Centers,2000-2004
+,95-99 years,95-99,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Hispanic Centers,2000-2004
+,100+ years,100+,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Hispanic Centers,2000-2004
+,Not Stated,NS,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Hispanic Centers,2000-2004
+Total,,,4923,51750175,9.513,9.247,9.779,0.136,Suicide,Hispanic Centers,2000-2004

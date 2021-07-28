@@ -1,0 +1,25 @@
+notes,five_year_age_groups,five_year_age_groups_code,deaths,population,crude_rate,crude_rate_lower_95_percent_confidence_interval,crude_rate_upper_95_percent_confidence_interval,crude_rate_standard_error,death_cause,acp_name,time_period
+,< 1 year,1,Suppressed,29828,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,Aging Farmlands,2000-2004
+,1-4 years,1-4,Suppressed,127941,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,Aging Farmlands,2000-2004
+,5-9 years,5-9,Suppressed,187383,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,Aging Farmlands,2000-2004
+,10-14 years,10-14,Suppressed,227338,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,Aging Farmlands,2000-2004
+,15-19 years,15-19,32,232455,13.766,9.416,19.434,2.434,Suicide,Aging Farmlands,2000-2004
+,20-24 years,20-24,30,114150,26.281,17.732,37.518,4.798,Suicide,Aging Farmlands,2000-2004
+,25-29 years,25-29,22,115664,19.021,11.920,28.797,4.055,Suicide,Aging Farmlands,2000-2004
+,30-34 years,30-34,11,144215,Unreliable,3.808,13.648,2.300,Suicide,Aging Farmlands,2000-2004
+,35-39 years,35-39,28,185656,15.082,10.022,21.797,2.850,Suicide,Aging Farmlands,2000-2004
+,40-44 years,40-44,26,234619,11.082,7.239,16.237,2.173,Suicide,Aging Farmlands,2000-2004
+,45-49 years,45-49,26,238741,10.890,7.114,15.957,2.136,Suicide,Aging Farmlands,2000-2004
+,50-54 years,50-54,40,211896,18.877,13.486,25.705,2.985,Suicide,Aging Farmlands,2000-2004
+,55-59 years,55-59,23,178409,12.892,8.172,19.344,2.688,Suicide,Aging Farmlands,2000-2004
+,60-64 years ,60-64,23,162534,14.151,8.970,21.233,2.951,Suicide,Aging Farmlands,2000-2004
+,65-69 years,65-69,13,161307,Unreliable,4.291,13.781,2.235,Suicide,Aging Farmlands,2000-2004
+,70-74 years,70-74,25,157566,15.866,10.268,23.422,3.173,Suicide,Aging Farmlands,2000-2004
+,75-79 years,75-79,16,142001,Unreliable,6.440,18.298,2.817,Suicide,Aging Farmlands,2000-2004
+,80-84 years,80-84,16,112443,Unreliable,8.133,23.108,3.557,Suicide,Aging Farmlands,2000-2004
+,85-89 years,85-89,10,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Aging Farmlands,2000-2004
+,90-94 years,90-94,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Aging Farmlands,2000-2004
+,95-99 years,95-99,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Aging Farmlands,2000-2004
+,100+ years,100+,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Aging Farmlands,2000-2004
+,Not Stated,NS,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Aging Farmlands,2000-2004
+Total,,,351,3079382,11.398,10.206,12.591,0.608,Suicide,Aging Farmlands,2000-2004

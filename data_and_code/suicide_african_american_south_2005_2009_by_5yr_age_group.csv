@@ -1,0 +1,25 @@
+notes,five_year_age_groups,five_year_age_groups_code,deaths,population,crude_rate,crude_rate_lower_95_percent_confidence_interval,crude_rate_upper_95_percent_confidence_interval,crude_rate_standard_error,death_cause,acp_name,time_period
+,< 1 year,1,Suppressed,1140481,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,African American South,2005-2009
+,1-4 years,1-4,Suppressed,4400368,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,African American South,2005-2009
+,5-9 years,5-9,Suppressed,5371309,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,African American South,2005-2009
+,10-14 years,10-14,66,5652953,1.168,0.903,1.485,0.144,Suicide,African American South,2005-2009
+,15-19 years,15-19,416,6166503,6.746,6.098,7.394,0.331,Suicide,African American South,2005-2009
+,20-24 years,20-24,805,6080042,13.240,12.325,14.155,0.467,Suicide,African American South,2005-2009
+,25-29 years,25-29,712,5479927,12.993,12.038,13.947,0.487,Suicide,African American South,2005-2009
+,30-34 years,30-34,733,5012387,14.624,13.565,15.682,0.540,Suicide,African American South,2005-2009
+,35-39 years,35-39,834,5248332,15.891,14.812,16.969,0.550,Suicide,African American South,2005-2009
+,40-44 years,40-44,960,5597701,17.150,16.065,18.235,0.554,Suicide,African American South,2005-2009
+,45-49 years,45-49,951,5978505,15.907,14.896,16.918,0.516,Suicide,African American South,2005-2009
+,50-54 years,50-54,955,5747922,16.615,15.561,17.668,0.538,Suicide,African American South,2005-2009
+,55-59 years,55-59,751,5104576,14.712,13.660,15.765,0.537,Suicide,African American South,2005-2009
+,60-64 years ,60-64,638,4057344,15.725,14.504,16.945,0.623,Suicide,African American South,2005-2009
+,65-69 years,65-69,436,3166580,13.769,12.476,15.061,0.659,Suicide,African American South,2005-2009
+,70-74 years,70-74,384,2518377,15.248,13.723,16.773,0.778,Suicide,African American South,2005-2009
+,75-79 years,75-79,347,2027843,17.112,15.311,18.912,0.919,Suicide,African American South,2005-2009
+,80-84 years,80-84,267,1485630,17.972,15.816,20.128,1.100,Suicide,African American South,2005-2009
+,85-89 years,85-89,153,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,African American South,2005-2009
+,90-94 years,90-94,46,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,African American South,2005-2009
+,95-99 years,95-99,13,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,African American South,2005-2009
+,100+ years,100+,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,African American South,2005-2009
+,Not Stated,NS,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,African American South,2005-2009
+Total,,,9475,81486811,11.628,11.394,11.862,0.119,Suicide,African American South,2005-2009

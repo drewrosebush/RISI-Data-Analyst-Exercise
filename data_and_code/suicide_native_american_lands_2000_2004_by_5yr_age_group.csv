@@ -1,0 +1,25 @@
+notes,five_year_age_groups,five_year_age_groups_code,deaths,population,crude_rate,crude_rate_lower_95_percent_confidence_interval,crude_rate_upper_95_percent_confidence_interval,crude_rate_standard_error,death_cause,acp_name,time_period
+,< 1 year,1,Suppressed,66685,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,Native American Lands,2000-2004
+,1-4 years,1-4,Suppressed,265019,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,Native American Lands,2000-2004
+,5-9 years,5-9,Suppressed,352342,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,Native American Lands,2000-2004
+,10-14 years,10-14,25,402499,6.211,4.020,9.169,1.242,Suicide,Native American Lands,2000-2004
+,15-19 years,15-19,151,370433,40.763,34.261,47.265,3.317,Suicide,Native American Lands,2000-2004
+,20-24 years,20-24,114,263588,43.249,35.310,51.189,4.051,Suicide,Native American Lands,2000-2004
+,25-29 years,25-29,96,235504,40.764,33.019,49.779,4.160,Suicide,Native American Lands,2000-2004
+,30-34 years,30-34,63,246194,25.590,19.664,32.740,3.224,Suicide,Native American Lands,2000-2004
+,35-39 years,35-39,83,271161,30.609,24.380,37.945,3.360,Suicide,Native American Lands,2000-2004
+,40-44 years,40-44,73,289537,25.213,19.763,31.701,2.951,Suicide,Native American Lands,2000-2004
+,45-49 years,45-49,54,266389,20.271,15.228,26.449,2.759,Suicide,Native American Lands,2000-2004
+,50-54 years,50-54,48,232748,20.623,15.206,27.343,2.977,Suicide,Native American Lands,2000-2004
+,55-59 years,55-59,26,183046,14.204,9.279,20.812,2.786,Suicide,Native American Lands,2000-2004
+,60-64 years ,60-64,24,148230,16.191,10.374,24.091,3.305,Suicide,Native American Lands,2000-2004
+,65-69 years,65-69,16,123288,Unreliable,7.418,21.075,3.244,Suicide,Native American Lands,2000-2004
+,70-74 years,70-74,15,98771,Unreliable,8.500,25.048,3.921,Suicide,Native American Lands,2000-2004
+,75-79 years,75-79,18,73970,Unreliable,14.422,38.458,5.736,Suicide,Native American Lands,2000-2004
+,80-84 years,80-84,10,48177,Unreliable,9.954,38.173,6.564,Suicide,Native American Lands,2000-2004
+,85-89 years,85-89,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Native American Lands,2000-2004
+,90-94 years,90-94,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Native American Lands,2000-2004
+,95-99 years,95-99,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Native American Lands,2000-2004
+,100+ years,100+,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Native American Lands,2000-2004
+,Not Stated,NS,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Native American Lands,2000-2004
+Total,,,828,3976793,20.821,19.403,22.239,0.724,Suicide,Native American Lands,2000-2004

@@ -1,0 +1,25 @@
+notes,five_year_age_groups,five_year_age_groups_code,deaths,population,crude_rate,crude_rate_lower_95_percent_confidence_interval,crude_rate_upper_95_percent_confidence_interval,crude_rate_standard_error,death_cause,acp_name,time_period
+,< 1 year,1,Suppressed,63424,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,Native American Lands,2015-2019
+,1-4 years,1-4,Suppressed,263435,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,Native American Lands,2015-2019
+,5-9 years,5-9,Suppressed,342318,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,Native American Lands,2015-2019
+,10-14 years,10-14,37,335397,11.032,7.767,15.206,1.814,Suicide,Native American Lands,2015-2019
+,15-19 years,15-19,164,312497,52.481,44.448,60.513,4.098,Suicide,Native American Lands,2015-2019
+,20-24 years,20-24,185,275135,67.240,57.550,76.929,4.944,Suicide,Native American Lands,2015-2019
+,25-29 years,25-29,215,292158,73.590,63.753,83.427,5.019,Suicide,Native American Lands,2015-2019
+,30-34 years,30-34,152,261149,58.204,48.951,67.457,4.721,Suicide,Native American Lands,2015-2019
+,35-39 years,35-39,93,246423,37.740,30.461,46.234,3.913,Suicide,Native American Lands,2015-2019
+,40-44 years,40-44,81,230169,35.192,27.947,43.740,3.910,Suicide,Native American Lands,2015-2019
+,45-49 years,45-49,70,232016,30.170,23.519,38.118,3.606,Suicide,Native American Lands,2015-2019
+,50-54 years,50-54,72,250769,28.712,22.465,36.157,3.384,Suicide,Native American Lands,2015-2019
+,55-59 years,55-59,49,268596,18.243,13.496,24.118,2.606,Suicide,Native American Lands,2015-2019
+,60-64 years ,60-64,41,243272,16.854,12.094,22.864,2.632,Suicide,Native American Lands,2015-2019
+,65-69 years,65-69,44,200262,21.971,15.964,29.495,3.312,Suicide,Native American Lands,2015-2019
+,70-74 years,70-74,21,146996,14.286,8.843,21.838,3.117,Suicide,Native American Lands,2015-2019
+,75-79 years,75-79,22,102802,21.400,13.411,32.400,4.563,Suicide,Native American Lands,2015-2019
+,80-84 years,80-84,10,67450,Unreliable,7.110,27.265,4.688,Suicide,Native American Lands,2015-2019
+,85-89 years,85-89,12,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Native American Lands,2015-2019
+,90-94 years,90-94,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Native American Lands,2015-2019
+,95-99 years,95-99,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Native American Lands,2015-2019
+,100+ years,100+,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Native American Lands,2015-2019
+,Not Stated,NS,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Native American Lands,2015-2019
+Total,,,1272,4194994,30.322,28.655,31.988,0.850,Suicide,Native American Lands,2015-2019

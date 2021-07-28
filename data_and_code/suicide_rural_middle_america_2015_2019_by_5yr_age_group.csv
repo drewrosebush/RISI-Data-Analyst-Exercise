@@ -1,0 +1,25 @@
+notes,five_year_age_groups,five_year_age_groups_code,deaths,population,crude_rate,crude_rate_lower_95_percent_confidence_interval,crude_rate_upper_95_percent_confidence_interval,crude_rate_standard_error,death_cause,acp_name,time_period
+,< 1 year,1,Suppressed,1168012,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,Rural Middle America,2015-2019
+,1-4 years,1-4,Suppressed,4885767,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,Rural Middle America,2015-2019
+,5-9 years,5-9,Suppressed,6405662,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,Rural Middle America,2015-2019
+,10-14 years,10-14,209,6730480,3.105,2.684,3.526,0.215,Suicide,Rural Middle America,2015-2019
+,15-19 years,15-19,931,6909378,13.474,12.609,14.340,0.442,Suicide,Rural Middle America,2015-2019
+,20-24 years,20-24,1380,6624382,20.832,19.733,21.931,0.561,Suicide,Rural Middle America,2015-2019
+,25-29 years,25-29,1462,6322177,23.125,21.940,24.310,0.605,Suicide,Rural Middle America,2015-2019
+,30-34 years,30-34,1412,6209611,22.739,21.553,23.925,0.605,Suicide,Rural Middle America,2015-2019
+,35-39 years,35-39,1511,6288592,24.028,22.816,25.239,0.618,Suicide,Rural Middle America,2015-2019
+,40-44 years,40-44,1456,6043564,24.092,22.854,25.329,0.631,Suicide,Rural Middle America,2015-2019
+,45-49 years,45-49,1602,6638376,24.132,22.951,25.314,0.603,Suicide,Rural Middle America,2015-2019
+,50-54 years,50-54,1708,7339464,23.271,22.168,24.375,0.563,Suicide,Rural Middle America,2015-2019
+,55-59 years,55-59,1760,8074344,21.797,20.779,22.816,0.520,Suicide,Rural Middle America,2015-2019
+,60-64 years ,60-64,1357,7610932,17.830,16.881,18.778,0.484,Suicide,Rural Middle America,2015-2019
+,65-69 years,65-69,1051,6482867,16.212,15.232,17.192,0.500,Suicide,Rural Middle America,2015-2019
+,70-74 years,70-74,767,4863066,15.772,14.656,16.888,0.569,Suicide,Rural Middle America,2015-2019
+,75-79 years,75-79,685,3516466,19.480,18.021,20.939,0.744,Suicide,Rural Middle America,2015-2019
+,80-84 years,80-84,461,2479556,18.592,16.895,20.289,0.866,Suicide,Rural Middle America,2015-2019
+,85-89 years,85-89,334,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Rural Middle America,2015-2019
+,90-94 years,90-94,166,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Rural Middle America,2015-2019
+,95-99 years,95-99,31,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Rural Middle America,2015-2019
+,100+ years,100+,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Rural Middle America,2015-2019
+,Not Stated,NS,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Rural Middle America,2015-2019
+Total,,,18292,107351475,17.039,16.792,17.286,0.126,Suicide,Rural Middle America,2015-2019

@@ -1,0 +1,25 @@
+notes,five_year_age_groups,five_year_age_groups_code,deaths,population,crude_rate,crude_rate_lower_95_percent_confidence_interval,crude_rate_upper_95_percent_confidence_interval,crude_rate_standard_error,death_cause,acp_name,time_period
+,< 1 year,1,Suppressed,731373,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,Evangelical Hubs,2015-2019
+,1-4 years,1-4,Suppressed,3035383,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,Evangelical Hubs,2015-2019
+,5-9 years,5-9,Suppressed,3940829,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,Evangelical Hubs,2015-2019
+,10-14 years,10-14,145,4104074,3.533,2.958,4.108,0.293,Suicide,Evangelical Hubs,2015-2019
+,15-19 years,15-19,574,4002403,14.341,13.168,15.515,0.599,Suicide,Evangelical Hubs,2015-2019
+,20-24 years,20-24,933,3743652,24.922,23.323,26.521,0.816,Suicide,Evangelical Hubs,2015-2019
+,25-29 years,25-29,992,3968782,24.995,23.440,26.551,0.794,Suicide,Evangelical Hubs,2015-2019
+,30-34 years,30-34,1019,3657826,27.858,26.148,29.569,0.873,Suicide,Evangelical Hubs,2015-2019
+,35-39 years,35-39,1021,3714198,27.489,25.803,29.175,0.860,Suicide,Evangelical Hubs,2015-2019
+,40-44 years,40-44,1057,3710776,28.485,26.767,30.202,0.876,Suicide,Evangelical Hubs,2015-2019
+,45-49 years,45-49,1112,4021411,27.652,26.027,29.277,0.829,Suicide,Evangelical Hubs,2015-2019
+,50-54 years,50-54,1195,4239404,28.188,26.590,29.786,0.815,Suicide,Evangelical Hubs,2015-2019
+,55-59 years,55-59,1174,4427342,26.517,25.000,28.034,0.774,Suicide,Evangelical Hubs,2015-2019
+,60-64 years ,60-64,879,4143775,21.213,19.810,22.615,0.715,Suicide,Evangelical Hubs,2015-2019
+,65-69 years,65-69,703,3679101,19.108,17.695,20.520,0.721,Suicide,Evangelical Hubs,2015-2019
+,70-74 years,70-74,585,2942883,19.878,18.268,21.489,0.822,Suicide,Evangelical Hubs,2015-2019
+,75-79 years,75-79,484,2108761,22.952,20.907,24.997,1.043,Suicide,Evangelical Hubs,2015-2019
+,80-84 years,80-84,312,1393536,22.389,19.905,24.873,1.268,Suicide,Evangelical Hubs,2015-2019
+,85-89 years,85-89,198,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Evangelical Hubs,2015-2019
+,90-94 years,90-94,82,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Evangelical Hubs,2015-2019
+,95-99 years,95-99,12,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Evangelical Hubs,2015-2019
+,100+ years,100+,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Evangelical Hubs,2015-2019
+,Not Stated,NS,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Evangelical Hubs,2015-2019
+Total,,,12481,62848386,19.859,19.510,20.207,0.178,Suicide,Evangelical Hubs,2015-2019

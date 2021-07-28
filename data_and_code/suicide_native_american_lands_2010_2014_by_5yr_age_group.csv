@@ -1,0 +1,25 @@
+notes,five_year_age_groups,five_year_age_groups_code,deaths,population,crude_rate,crude_rate_lower_95_percent_confidence_interval,crude_rate_upper_95_percent_confidence_interval,crude_rate_standard_error,death_cause,acp_name,time_period
+,< 1 year,1,Suppressed,69601,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,Native American Lands,2010-2014
+,1-4 years,1-4,Suppressed,285025,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,Native American Lands,2010-2014
+,5-9 years,5-9,Suppressed,350974,Suppressed,Suppressed,Suppressed,Suppressed,Suicide,Native American Lands,2010-2014
+,10-14 years,10-14,26,339351,7.662,5.005,11.226,1.503,Suicide,Native American Lands,2010-2014
+,15-19 years,15-19,171,332115,51.488,43.771,59.205,3.937,Suicide,Native American Lands,2010-2014
+,20-24 years,20-24,158,303371,52.081,43.960,60.202,4.143,Suicide,Native American Lands,2010-2014
+,25-29 years,25-29,123,271549,45.296,37.291,53.301,4.084,Suicide,Native American Lands,2010-2014
+,30-34 years,30-34,99,255215,38.791,31.527,47.226,3.899,Suicide,Native American Lands,2010-2014
+,35-39 years,35-39,83,237727,34.914,27.809,43.281,3.832,Suicide,Native American Lands,2010-2014
+,40-44 years,40-44,88,241064,36.505,29.278,44.975,3.891,Suicide,Native American Lands,2010-2014
+,45-49 years,45-49,89,261951,33.976,27.285,41.810,3.601,Suicide,Native American Lands,2010-2014
+,50-54 years,50-54,71,280710,25.293,19.754,31.904,3.002,Suicide,Native American Lands,2010-2014
+,55-59 years,55-59,57,260049,21.919,16.601,28.399,2.903,Suicide,Native American Lands,2010-2014
+,60-64 years ,60-64,29,219199,13.230,8.860,19.001,2.457,Suicide,Native American Lands,2010-2014
+,65-69 years,65-69,34,166799,20.384,14.116,28.484,3.496,Suicide,Native American Lands,2010-2014
+,70-74 years,70-74,18,123734,Unreliable,8.622,22.991,3.429,Suicide,Native American Lands,2010-2014
+,75-79 years,75-79,10,89313,Unreliable,5.369,20.591,3.541,Suicide,Native American Lands,2010-2014
+,80-84 years,80-84,13,59876,Unreliable,11.561,37.127,6.022,Suicide,Native American Lands,2010-2014
+,85-89 years,85-89,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Native American Lands,2010-2014
+,90-94 years,90-94,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Native American Lands,2010-2014
+,95-99 years,95-99,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Native American Lands,2010-2014
+,100+ years,100+,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Native American Lands,2010-2014
+,Not Stated,NS,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suicide,Native American Lands,2010-2014
+Total,,,1080,4199402,25.718,24.184,27.252,0.783,Suicide,Native American Lands,2010-2014
